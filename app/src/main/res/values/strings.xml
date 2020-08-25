@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScriptureGuide</string>
+    <string name="find_scripture">Find Scripture</string>
+    <string name="scriptures">No Circumstance selected</string>
+    <string-array name="spinner_circumstance">
+        <item>Sorrow/Grief</item>
+        <item>Stress</item>
+        <item>Suicide</item>
+        <item>Temptation</item>
+        <item>Trouble</item>
+    </string-array>
+</resources>
